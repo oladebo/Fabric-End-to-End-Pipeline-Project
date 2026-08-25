@@ -13,7 +13,7 @@ The architecture begins with Market A and Market B source systems, where data is
 #### Key Architecture Flow
 
 
-![image alt]()
+![image alt](https://github.com/oladebo/Fabric-End-to-End-Pipeline-Project/blob/20075490c2c99ee3cbf8b4068c0188b71951399b/Screen%20Shot%202026-08-25%20at%2022.56.52.png)
 
 ![image alt]()
 
