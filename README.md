@@ -7,7 +7,17 @@ This project demonstrates a multi-cloud end-to-end data engineering architecture
 
 The architecture begins with Market A and Market B source systems, where data is generated in CSV format. The data is then routed through different cloud-based data engineering pipelines.
 
+
+![image alt]()
+
 #### Key Architecture Flow
+
+
+![image alt]()
+
+![image alt]()
+
+![image alt]()
 
 1. Data Ingestion
 
@@ -72,7 +82,12 @@ Sources → Fabric Data Factory → OneLake → PySpark Transformation → Lakeh
 
 with Azure and AWS integrated as additional data sources and processing/storage environments.
 
-This makes the project a strong example of a modern hybrid/multi-cloud data engineering architecture using Microsoft Fabric as the central analytics platform.
+However this project a strong example of a modern hybrid/multi-cloud data engineering architecture using Microsoft Fabric as the central analytics platform.
+
+
+Thanks,
+
+Oladebo Ayanniyi (Data Engineer)
 
 
 
