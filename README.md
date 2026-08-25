@@ -7,7 +7,7 @@ This project demonstrates a multi-cloud end-to-end data engineering architecture
 
 The architecture begins with Market A and Market B source systems, where data is generated in CSV format. The data is then routed through different cloud-based data engineering pipelines.
 
-####Key Architecture Flow
+#### Key Architecture Flow
 
 1. Data Ingestion
 
@@ -50,13 +50,17 @@ One our client company operating in multiple markets across Africa. Market A and
 
 The company wants to answer questions such as:
 
-What are the sales trends across different markets?
-Which products generate the highest revenue?
-Which market is performing best?
-What are the daily and monthly sales volumes?
-How does customer behavior differ between markets?
+- What are the sales trends across different markets?
+- Which products generate the highest revenue?
+- Which market is performing best?
+- What are the daily and monthly sales volumes?
+- How does customer behavior differ between markets?
 
 The Fabric-based architecture provides a centralized way to ingest, transform, govern, model, and analyze this data, while still allowing the organization to consume data from Azure and AWS environments.
+
+
+
+
 
 Main Objective
 
