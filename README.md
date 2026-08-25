@@ -8,7 +8,7 @@ This project demonstrates a multi-cloud end-to-end data engineering architecture
 The architecture begins with Market A and Market B source systems, where data is generated in CSV format. The data is then routed through different cloud-based data engineering pipelines.
 
 
-![image alt]()
+![image alt](https://github.com/oladebo/Fabric-End-to-End-Pipeline-Project/blob/2ab8cd70afb58b2a042882b88d2b21cab143cc79/Screen%20Shot%202026-08-25%20at%2022.56.21.png)
 
 #### Key Architecture Flow
 
